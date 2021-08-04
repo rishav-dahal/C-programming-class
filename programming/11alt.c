@@ -20,7 +20,7 @@ int main()
 	          	if (age>30)
 	          	{
 	          		printf("Eligible for insurance");
-			    }u
+			    }
                 else
 		        {
 			        printf("Not eligible for insurance");
