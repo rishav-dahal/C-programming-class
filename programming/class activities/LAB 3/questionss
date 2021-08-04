@@ -1,0 +1,17 @@
+11. A company does insurance of the driver in following cases
+a. If the driver is married
+b. If the driver is unmarried male and above 30 years of age
+c. If the driver is unmarried female and above 25 years of age
+ Write the program without using any logical operators
+12. A company does insurance of the driver in following cases
+a. If the driver is married
+b. If the driver is unmarried male and above 30 years of age
+c. If the driver is unmarried female and above 25 years of age
+ Write the program using logical operators
+13. Write a program to read a character from keyboard and convert the input
+character into uppercase if it is lowercase and vice versa.
+14.Write a program to swap two input numbers.
+15. A year is entered through the keyboard, write a program to determine whether
+it is leap year or not.
+(Hint: for century year it should be divisible by 400 and for non-century year
+it should be divisible by 4) 
