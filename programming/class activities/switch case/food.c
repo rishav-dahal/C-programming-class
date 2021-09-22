@@ -7,8 +7,9 @@ int main()
     char decision;   
     while(1)
     {
-        printf("Order your Food");
+        printf("Order your Food\n");
         printf("****MENU****\n1.MOMO----------Rs.250\n2.Pizza----------Rs.450\n3.CFC----------Rs.500\n4.Coffee----------Rs.300\n");
+        printf("what do you want to order:");
         scanf("%d",&num);
         rate=0;
         up:

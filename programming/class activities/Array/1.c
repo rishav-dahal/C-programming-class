@@ -1,3 +1,4 @@
+//Write a program to input 5 integer values in an array and display them.
 #include<stdio.h>
 
 int main()
@@ -5,7 +6,8 @@ int main()
     int number[5],i;
     for(i=0;i<=4;i++)
     {
-        scanf("Enter a nummber:%d",&number[i]);
+        printf("Number[%d]=",i);
+        scanf("%d",&number[i]);
     }
     for(i=0;i<=4;i++)
     {
